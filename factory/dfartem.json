@@ -1,0 +1,9 @@
+{
+	"name": "dfartem",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fc11abc9-8723-4b45-99c6-c5bac705698d",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
